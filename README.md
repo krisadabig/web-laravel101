@@ -1,4 +1,4 @@
-## 1. Clone this repo
+## 1. Clone this repo and cd to root dir
 
 ```sh
 git clone https://github.com/krisadabig/web-laravel101.git
@@ -36,7 +36,7 @@ DB_PASSWORD= {your database password }
 php artisan key:generate
 ```
 
-# 5.5 Create database with same name as DB_DATABASE in .env
+## 5.5 Create database with same name as DB_DATABASE in .env
 
 ## 6. Migrate table and seed record
 

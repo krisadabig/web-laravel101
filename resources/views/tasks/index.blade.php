@@ -17,7 +17,8 @@
         <thead>
             <tr class="text-md   text-gray-900 bg-gray-100 uppercase border-b border-gray-600">
                 <th class="px-4 py-3">Name</th>
-                <th class="px-4 py-3">Due Date</th>
+                <th class=" px-4 py-3 ">Due Date</th>
+                <td class=" "></td>
             </tr>
         </thead>
         <tbody>
